@@ -41,6 +41,20 @@ https://github.com/lua/lua
 
 # Activity 2: USER STORIES - FORMAT AND PROCESS
 
+Facebook Marketplace is an online platform created by Facebook where users can buy, sell, and trade items with others in their local community. It provides a convenient way for people to discover, buy, and sell items such as clothing, electronics, furniture, vehicles, and more.
+
+Key features of Facebook Marketplace include:
+
+Local Listings: Users can browse items for sale in their local area, making it easy to find items nearby.
+
+Categories and Filters: Items are organized into categories, and users can apply filters to narrow down their search based on location, price, category, and more.
+
+Messaging: Buyers and sellers can communicate directly through Facebook Messenger to discuss details such as price, pickup arrangements, and item condition.
+
+Safety and Privacy: Facebook provides tools and guidelines to help users stay safe while buying and selling on Marketplace, including user ratings and reporting features.
+
+Integration with Facebook: Marketplace is integrated with Facebook's social network, allowing users to see listings from friends, groups, and pages they follow, as well as share listings with others.
+
 ##USER STORIES
 
 I choose Facebook Marketplace for this acvity as i use it on daily basis:
@@ -82,3 +96,9 @@ Users should have access to reporting tools within the Facebook Marketplace to f
 The platform should offer a bookmarking or save feature, allowing users to bookmark listings for future reference and easy access from their Facebook account.
 
 By identifying and defining these user stories and functional requirements, developers can better understand the needs and expectations of Facebook Marketplace users and create a more user-centered and functional product.
+
+#Community Code Project Repo
+ 
+In this part, I learned that contributing to open source can be a rewarding way to learn, teach, and build experience in just about any coding or documenting skills, bug fixes, or community support. We are given four different platforms, like Good First Issue, Github, Up for Grabs, and CodeTriage. I checked all the websites, but i decided to use github as, since day 1 of my college, i have been using github to submit my coding assignments. I am more familiar with it, and i was unaware of the explore feature of github. In this feature, we can see other community projects and we can also participate in them. Furthermore,  we can filter the projects according to the language. I selected Java for my Community Code Project because i did that in my last semester, and i am more familiar with it than other languages.
+
+https://github.com/WordPress/google-fonts-to-wordpress-collection
