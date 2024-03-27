@@ -55,7 +55,7 @@ Safety and Privacy: Facebook provides tools and guidelines to help users stay sa
 
 Integration with Facebook: Marketplace is integrated with Facebook's social network, allowing users to see listings from friends, groups, and pages they follow, as well as share listings with others.
 
-##USER STORIES
+## USER STORIES
 
 I choose Facebook Marketplace for this acvity as i use it on daily basis:
 
@@ -77,25 +77,6 @@ As a user, I want to report inappropriate listings or behavior on the Facebook M
 
 As a buyer, I want to save listings on the Facebook Marketplace for later reference or comparison to streamline my shopping experience.
 
-FUNCTIONAL USER REQUIREMENTS FOR FACEBOOK MARKETPLACE
-
-The Facebook Marketplace should have a responsive and intuitive user interface that allows for easy navigation and browsing of listings across various devices.
-
-Users should be able to create listings on the Facebook Marketplace by providing required information such as title, description, price, category, and images. Additionally, the platform should support features like scheduling availability and setting delivery options.
-
-The Facebook Marketplace should include robust search and filter functionalities, allowing users to refine search results based on specific criteria and preferences.
-
-The platform should facilitate seamless communication between buyers and sellers within the Marketplace interface, including messaging, negotiation, and transaction management features.
-
-Sellers should receive timely notifications about inquiries, messages, and offers related to their listings, accessible through both the Facebook app and website.
-
-The Facebook Marketplace should display seller ratings and reviews prominently on listings, allowing buyers to make informed decisions based on feedback from previous transactions.
-
-Users should have access to reporting tools within the Facebook Marketplace to flag inappropriate content or behavior, with mechanisms in place for review and moderation by Facebook's community standards team.
-
-The platform should offer a bookmarking or save feature, allowing users to bookmark listings for future reference and easy access from their Facebook account.
-
-By identifying and defining these user stories and functional requirements, developers can better understand the needs and expectations of Facebook Marketplace users and create a more user-centered and functional product.
 
 #Community Code Project Repo
  
