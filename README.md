@@ -78,8 +78,55 @@ As a user, I want to report inappropriate listings or behavior on the Facebook M
 As a buyer, I want to save listings on the Facebook Marketplace for later reference or comparison to streamline my shopping experience.
 
 
-#Community Code Project Repo
- 
-In this part, I learned that contributing to open source can be a rewarding way to learn, teach, and build experience in just about any coding or documenting skills, bug fixes, or community support. We are given four different platforms, like Good First Issue, Github, Up for Grabs, and CodeTriage. I checked all the websites, but i decided to use github as, since day 1 of my college, i have been using github to submit my coding assignments. I am more familiar with it, and i was unaware of the explore feature of github. In this feature, we can see other community projects and we can also participate in them. Furthermore,  we can filter the projects according to the language. I selected Java for my Community Code Project because i did that in my last semester, and i am more familiar with it than other languages.
+# Community Code Project Repo
+## Task to Read : 
+https://opensource.guide/how-to-contribute/
+The Open Source Guide on how to contribute offers a comprehensive overview for individuals looking to engage in open source projects. It serves as a roadmap for newcomers, detailing steps from finding suitable projects to understanding contribution etiquette. The guide emphasizes the importance of effective communication and collaboration within open source communities, providing valuable insights and resources to facilitate meaningful contributions. Whether navigating codebases or engaging in discussions, this resource equips aspiring contributors with the knowledge and tools necessary to participate effectively in the open source ecosystem.
 
-https://github.com/WordPress/google-fonts-to-wordpress-collection
+## Activity 3:Find Potential Projects to Contribute to
+In this part, I learned that contributing to open source can be a rewarding way to learn, teach, and build experience in just about any coding or documenting skills, bug fixes, or community support. We are given four different platforms, like Good First Issue, Github, Up for Grabs, and CodeTriage. I checked all the websites, but i decided to use github as, since day 1 of my college, i have been using github to submit my coding assignments. I am more familiar with it, and i was unaware of the GitHub Explore, GitHub Topics, GitHub Collections, GitHub Trending in github. In this feature, we can see other community projects and we can also participate in them. Furthermore,  we can filter the projects according to the language. I selected Javascript for my Community Code Project because i am studying this cource this semester, and i will get better understanding of lanhuage, how it work? What kind of projects people are doing in the feild? and more into it. 
+
+## 1st 
+[https://github.com/WordPress/google-fonts-to-wordpress-collection](https://github.com/EddieHubCommunity/good-first-issue-finder/issues)
+
+After searching alot from various sources i got my first javascript based reporistory. In this repo there are various programming languages used like JavaScript, CSS, html, TypeScript, Svelte, Dockerfile, Shell and around 68 people are contributoring in it and there are 33 open issues in it.The repository "google-fonts-to-wordpress-collection" under the WordPress organization on GitHub appears to be focused on integrating Google Fonts into WordPress websites. It likely contains tools, scripts, or resources aimed at simplifying the process of incorporating Google Fonts into WordPress themes or plugins. Given WordPress's popularity as a content management system (CMS) for building websites, this repository could be valuable for developers seeking to enhance the typography options available to WordPress users. Contributors to this repository may be involved in developing tools, providing documentation, or offering support to ensure seamless integration and usage of Google Fonts within the WordPress ecosystem.
+
+![image](https://github.com/nic-dgl104-winter-2024/rrj-aditivatish/assets/144161682/b4456572-a41c-4204-9010-68c7f309dec0)
+
+
+## 2nd 
+(https://github.com/cutenode/good-first-issue)
+
+Cutenode project use three top languages JavaScript, HTML, Nunjucks There are total 20 open and 34 closed issues in this 
+The repository "good-first-issue" under the "cutenode" organization on GitHub appears to be a curated list of open source projects that have issues suitable for beginners or newcomers to contribute to. These "good first issues" are typically well-defined tasks or bugs that can be tackled without extensive prior knowledge of the project's codebase. This repository serves as a valuable resource for individuals who are new to open source development and are looking for opportunities to get involved. By providing a list of beginner-friendly tasks across various projects, "good-first-issue" helps lower the barrier to entry for new contributors and fosters a welcoming and inclusive open source community.
+
+![image](https://github.com/nic-dgl104-winter-2024/rrj-aditivatish/assets/144161682/b4456572-a41c-4204-9010-68c7f309dec0)
+
+## 3rd 
+(https://github.com/Axe-Pearl/Mini-Projects)
+
+The "Mini-Projects" repository, managed by the "Axe-Pearl" organization on GitHub, offers a collection of small coding tasks aimed at helping people improve their programming skills, it contation 12 open issues. These projects likely cover a range of programming languages, providing opportunities for learners to practice different aspects of coding, such as algorithms, web development, and more. As for participation, the number of issues listed reflects ongoing tasks or discussions within the repository, while the contributors section shows the individuals who have contributed to the project in various ways. This repository serves as a valuable resource for anyone looking to gain practical coding experience and expand their skill set.
+
+![image](https://github.com/nic-dgl104-winter-2024/rrj-aditivatish/assets/144161682/b4456572-a41c-4204-9010-68c7f309dec0)
+
+
+## Activity 4:Identify issues to support
+### 1
+https://github.com/EddieHubCommunity/good-first-issue-finder/pull/393
+
+Issue i selected in this is issue number 393 in the repository "good-first-issue-finder" on GitHub is titled "UI: Enhance Sign Out Button." This issue likely pertains to improving the user interface (UI) element related to the sign-out functionality within the project. Enhancing the sign-out button could involve various improvements such as making it more visually appealing, ensuring it aligns well with the overall design of the application, enhancing its accessibility features, or improving its functionality. Contributors to this issue may propose and implement changes to the sign-out button to enhance the user experience of the application.
+
+### 2
+https://github.com/cutenode/good-first-issue/issues/78
+
+The issue number 78 in the "good-first-issue" repository under the "cutenode" organization on GitHub is titled "Handle errors better." This issue likely pertains to improving the error handling mechanism within the project. Enhancing error handling involves ensuring that the application can gracefully handle unexpected situations or failures, providing informative error messages to users, and possibly implementing strategies for logging and troubleshooting errors. Contributors to this issue may be tasked with identifying areas where error handling can be strengthened, proposing and implementing solutions to handle errors more effectively, and potentially enhancing the overall stability and usability of the project.
+Seems like this is hard one as no one able to solve it and didn't achive any milestone in this.
+
+
+### 3
+https://github.com/Axe-Pearl/Mini-Projects/issues/58
+
+The issue number 58 in the "Mini-Projects" repository under the "Axe-Pearl" organization on GitHub is titled "Add a Currency Converter." This issue likely entails the task of implementing a currency converter as a mini-project within the repository. A currency converter typically involves creating functionality that allows users to convert the value of one currency to another based on current exchange rates. Contributors to this issue may need to research and integrate APIs or libraries for fetching real-time exchange rates, design and implement a user interface for inputting currencies and displaying conversion results, and ensure that the currency converter functions accurately and efficiently. This mini-project provides an opportunity for contributors to develop practical coding skills while working on a useful and applicable feature.
+
+
+
