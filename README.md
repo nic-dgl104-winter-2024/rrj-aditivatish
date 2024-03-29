@@ -56,7 +56,7 @@ Safety and Privacy: Facebook provides tools and guidelines to help users stay sa
 
 Integration with Facebook: Marketplace is integrated with Facebook's social network, allowing users to see listings from friends, groups, and pages they follow, as well as share listings with others.
 
-## USER STORIES
+## User Stories
 
 I choose Facebook Marketplace for this acvity as i use it on daily basis:
 
@@ -80,13 +80,13 @@ As a buyer, I want to save listings on the Facebook Marketplace for later refere
 
 # Week 9
 
-# Community Code Project Repo
+# COMMUNITY CODE PROJECT REPO
 
 ## Task to Read : 
 https://opensource.guide/how-to-contribute/
 The Open Source Guide on how to contribute offers a comprehensive overview for individuals looking to engage in open source projects. It serves as a roadmap for newcomers, detailing steps from finding suitable projects to understanding contribution etiquette. The guide emphasizes the importance of effective communication and collaboration within open source communities, providing valuable insights and resources to facilitate meaningful contributions. Whether navigating codebases or engaging in discussions, this resource equips aspiring contributors with the knowledge and tools necessary to participate effectively in the open source ecosystem.
 
-## Activity 3:Find Potential Projects to Contribute to
+## Activity 3:FIND POTENTIAL PROJECTS TO CONTRIBUTE TO
 In this part, I learned that contributing to open source can be a rewarding way to learn, teach, and build experience in just about any coding or documenting skills, bug fixes, or community support. We are given four different platforms, like Good First Issue, Github, Up for Grabs, and CodeTriage. I checked all the websites, but i decided to use github as, since day 1 of my college, i have been using github to submit my coding assignments. I am more familiar with it, and i was unaware of the GitHub Explore, GitHub Topics, GitHub Collections, GitHub Trending in github. In this feature, we can see other community projects and we can also participate in them. Furthermore,  we can filter the projects according to the language. I selected Javascript for my Community Code Project because i am studying this cource this semester, and i will get better understanding of lanhuage, how it work? What kind of projects people are doing in the feild? and more into it. 
 
 ## 1st 
@@ -113,7 +113,7 @@ The "Mini-Projects" repository, managed by the "Axe-Pearl" organization on GitHu
 ![image](https://github.com/nic-dgl104-winter-2024/rrj-aditivatish/assets/144161682/b4456572-a41c-4204-9010-68c7f309dec0)
 
 
-## Activity 4:Identify issues to support
+## Activity 4:IDENTIFY ISSUES TO SUPPORT
 ### 1
 https://github.com/EddieHubCommunity/good-first-issue-finder/pull/393
 
@@ -137,23 +137,23 @@ This week's activity was like a roller coaster for me. Firstly, I delved into th
 
 
 # Week 10
-## ASSESS EXTERNAL COMMUNITY CONTRIBUTION GUIDELINES
+# ASSESS EXTERNAL COMMUNITY CONTRIBUTION GUIDELINES
 
 ## Tasks
 - Visit the repository of an open-source project you're interested in.
 - Read their README.md file carefully to understand how to contribute.
 - Look for documents like CONTRIBUTING.md or CONDUCT.md for guidelines.
 - Note down any steps or processes they require for contributions.
-## ASSESS EXTERNAL COMMUNITY CONTRIBUTION GUIDELINES
+## Assess External Community Contribution Guidelines
 In this week visited the open sources project which you proviede to us after reading there Readme's i saw many high level projects or the project in many nother languages which i did't studied yet then i found one open source pattern library in java then i choose that one becuase this language i learned in my last semester but i was not aware of pattern library i just read the concept library only but this time i have to impletment practicaly.
 ![image](https://github.com/nic-dgl104-winter-2024/rrj-aditivatish/assets/144161682/bfd35c1c-e394-4ac1-9711-b5712e5c09e9)
 
-## CONTRIBUTE TO EXTERNAL COMMUNITY
+## Contribute To External Community
 To complete this week activity I have successfully completed the steps suggested to help in the "Add Java implementation for Observer pattern" article (#35) in the Mini-Projects repository by reading the Readme file and understand the problem. 
 ![image](https://github.com/nic-dgl104-winter-2024/rrj-aditivatish/assets/144161682/3802c188-5c26-4473-b5fa-bdbb517ae7b1)
 
 
-## CONTRIBUTE TO PATTERN-LIBRARY
+## Contribute To Pattern-Library
 I moved the fork repository to my GitHub account and cloned it to my local machine and it started with the help of you given videos. By creating a new branch called "Java-ovservational-Pattern". I worked to implement the Java Observer instance according to the requirements specified in the journal. I encountered a few challenges throughout the process, especially in understanding the complexities of implementing the Observer framework in Java. However, by referring to relevant documents and with the help of online resources, I successfully overcame these obstacles.
 
 ## Reflection
