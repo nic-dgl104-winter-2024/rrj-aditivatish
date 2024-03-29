@@ -1,4 +1,5 @@
 # rrj-aditivatish
+# Week 8
 
 # Activity 1: RESEARCH A NEW LANGUAGE
 
@@ -26,7 +27,7 @@ These resources are valuable for learning Lua due to their accessibility and dep
 
 ## Reflection
 
-This activity proved to be an insightful exploration of Lua, enhancing our understanding of its applications and resources available for learning. By approaching the research with specific questions in mind, we were able to delve into various aspects of the language and discover its versatility and utility in different fields. Utilizing a range of websites during the search process provided diverse perspectives and enriched our understanding of Lua's usage and ecosystem.
+This activity proved to be an insightful exploration of Lua, enhancing our understanding of its applications and resources available for learning. I was unawre of this language Thanks to our instructor that introduce this language to me. By approaching the research with specific questions in mind, we were able to delve into various aspects of the language and discover its versatility and utility in different fields. Utilizing a range of websites during the search process provided diverse perspectives and enriched our understanding of Lua's usage and ecosystem.
 
 ## References
 
@@ -77,8 +78,10 @@ As a user, I want to report inappropriate listings or behavior on the Facebook M
 
 As a buyer, I want to save listings on the Facebook Marketplace for later reference or comparison to streamline my shopping experience.
 
+# Week 9
 
 # Community Code Project Repo
+
 ## Task to Read : 
 https://opensource.guide/how-to-contribute/
 The Open Source Guide on how to contribute offers a comprehensive overview for individuals looking to engage in open source projects. It serves as a roadmap for newcomers, detailing steps from finding suitable projects to understanding contribution etiquette. The guide emphasizes the importance of effective communication and collaboration within open source communities, providing valuable insights and resources to facilitate meaningful contributions. Whether navigating codebases or engaging in discussions, this resource equips aspiring contributors with the knowledge and tools necessary to participate effectively in the open source ecosystem.
@@ -127,6 +130,38 @@ Seems like this is hard one as no one able to solve it and didn't achive any mil
 https://github.com/Axe-Pearl/Mini-Projects/issues/58
 
 The issue number 58 in the "Mini-Projects" repository under the "Axe-Pearl" organization on GitHub is titled "Add a Currency Converter." This issue likely entails the task of implementing a currency converter as a mini-project within the repository. A currency converter typically involves creating functionality that allows users to convert the value of one currency to another based on current exchange rates. Contributors to this issue may need to research and integrate APIs or libraries for fetching real-time exchange rates, design and implement a user interface for inputting currencies and displaying conversion results, and ensure that the currency converter functions accurately and efficiently. This mini-project provides an opportunity for contributors to develop practical coding skills while working on a useful and applicable feature.
+
+
+## Reflection
+This week's activity was like a roller coaster for me. Firstly, I delved into the exploration features of GitHub and other websites. However, searching for the three repositories proved to be the most difficult part for me. I felt confused and overwhelmed after witnessing the advanced level of coding being done on GitHub. I'm not a proficient programmer; I can only grasp the basic features and functions of programming. Despite this, I tried my best to complete this activity. In the end, I now have a better understanding compared to before, which is a positive outcome.
+
+
+# Week 10
+## ASSESS EXTERNAL COMMUNITY CONTRIBUTION GUIDELINES
+
+## Tasks
+- Visit the repository of an open-source project you're interested in.
+- Read their README.md file carefully to understand how to contribute.
+- Look for documents like CONTRIBUTING.md or CONDUCT.md for guidelines.
+- Note down any steps or processes they require for contributions.
+## ASSESS EXTERNAL COMMUNITY CONTRIBUTION GUIDELINES
+In this week visited the open sources project which you proviede to us after reading there Readme's i saw many high level projects or the project in many nother languages which i did't studied yet then i found one open source pattern library in java then i choose that one becuase this language i learned in my last semester but i was not aware of pattern library i just read the concept library only but this time i have to impletment practicaly.
+![image](https://github.com/nic-dgl104-winter-2024/rrj-aditivatish/assets/144161682/bfd35c1c-e394-4ac1-9711-b5712e5c09e9)
+
+## CONTRIBUTE TO EXTERNAL COMMUNITY
+To complete this week activity I have successfully completed the steps suggested to help in the "Add Java implementation for Observer pattern" article (#35) in the Mini-Projects repository by reading the Readme file and understand the problem. 
+![image](https://github.com/nic-dgl104-winter-2024/rrj-aditivatish/assets/144161682/3802c188-5c26-4473-b5fa-bdbb517ae7b1)
+
+
+## CONTRIBUTE TO PATTERN-LIBRARY
+I moved the fork repository to my GitHub account and cloned it to my local machine and it started with the help of you given videos. By creating a new branch called "Java-ovservational-Pattern". I worked to implement the Java Observer instance according to the requirements specified in the journal. I encountered a few challenges throughout the process, especially in understanding the complexities of implementing the Observer framework in Java. However, by referring to relevant documents and with the help of online resources, I successfully overcame these obstacles.
+
+## Reflection
+This project gave me valuable insight into the Observer model and further solidified my understanding of Java programming concepts. I appreciate the opportunity to contribute to this project and look forward to my continued involvement in the open-source community.
+
+
+
+
 
 
 
