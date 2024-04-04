@@ -153,6 +153,17 @@ To complete this week activity I have successfully completed the steps suggested
 ![image](https://github.com/nic-dgl104-winter-2024/rrj-aditivatish/assets/144161682/3802c188-5c26-4473-b5fa-bdbb517ae7b1)
 
 
+# Week 11
+# READ THROUGH PATTERN LIBRARY ISSUES
+  In this activity, I visited various pattern libraries where my classmates participated and did their best to resolve issues. I noticed that many students also contributed in other 
+ languages, such as Node.js, C#, and many more. Initially, I found it difficult to choose a pattern library. However, when I started reading the files, I realized that most of them are 
+ object-oriented, which means the basics of these programming languages are similar. Therefore, based on my knowledge, I wrote my feedback in their comment sections.
+
+# Refelction 
+ Initially, I found this task more difficult and somewhat daunting, especially when encountering issues in other high-level languages. However, with the help of the readme and other 
+ available documents, it became easier to understand the issues. After completing the task, I gained confidence in addressing similar challenges with proper guidance and effort.
+
+
 ## Contribute To Pattern-Library
 I moved the fork repository to my GitHub account and cloned it to my local machine and it started with the help of you given videos. By creating a new branch called "Java-ovservational-Pattern". I worked to implement the Java Observer instance according to the requirements specified in the journal. I encountered a few challenges throughout the process, especially in understanding the complexities of implementing the Observer framework in Java. However, by referring to relevant documents and with the help of online resources, I successfully overcame these obstacles.
 
